@@ -1,4 +1,4 @@
-# Blog de Café - Proyecto de Maquetación
+# [Blog de Café - Proyecto de Maquetación](https://blogdecafe-andrespaqui.netlify.app/)
 
 Esta web esta dedicada al mundo del café, que incluye un blog con artículos, una sección de cursos y detalles sobre diferentes granos y preparaciones. El objetivo principal fue aplicar técnicas avanzadas de maquetación web y diseño visual.
 
